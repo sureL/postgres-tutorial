@@ -1,5 +1,3 @@
--- drop table public.limno;
-
 CREATE TABLE public.limno
 (
     year_month integer primary key,
